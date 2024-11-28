@@ -1,4 +1,4 @@
-![naruto](https://github.com/aditeyaS/aditeyaS/blob/main/assets/naruto.gif)
+![Aditeya Srivastava](https://github.com/aditeyaS/aditeyaS/blob/main/assets/name.gif)
 
 ### Hey, there!
 
