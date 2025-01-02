@@ -2,4 +2,5 @@
 
 ### Hey, there!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditeya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/adi](https://x.com/aditeyaaaa)) 
+[<img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditeya/)
+[<img height="20" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" />](https://github.com/aditeyaS/resume)
